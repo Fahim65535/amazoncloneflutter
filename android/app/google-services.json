@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125630464079",
+    "project_id": "cloned-862a5",
+    "storage_bucket": "cloned-862a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125630464079:android:ce48cda78d0e90dac72a3a",
+        "android_client_info": {
+          "package_name": "com.example.amazone_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125630464079-p0p86s47mgb4bu2ij2001bm1k81ne9ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHZ4MQFoQNQpprHnS1x7OjztuAKIaGmXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125630464079-p0p86s47mgb4bu2ij2001bm1k81ne9ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
